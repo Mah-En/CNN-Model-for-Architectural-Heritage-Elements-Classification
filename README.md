@@ -54,6 +54,8 @@ The model's performance is evaluated using:
 
 You can view the confusion matrix and feature map visualizations below.
 
+![Model Layers](./output.png)
+
 ### Results
 
 The model successfully classifies architectural heritage elements with high accuracy. The confusion matrix below shows the model's performance across the 10 categories.
